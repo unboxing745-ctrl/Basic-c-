@@ -1,66 +1,90 @@
 <!-- ─────────────────────────────────────────────── -->
-<!-- 🌈 ANIMATED HEADER -->
+<!-- 🔥 HEADER ANIMATION -->
 <p align="center">
-  
-</p>
-
-<p align="center">
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Welcome+to+Basic+C%2B%2B+Repository!;Your+First+Step+Into+Programming+🚀;Learning+Syntax+%26+Core+Fundamentals;Building+Strong+Coding+Foundations+💡" />
 </p>
 
 <!-- ─────────────────────────────────────────────── -->
-<h1 align="center">🔥 BASIC C++ PROGRAMS — LEARNING REPO 🔥</h1>
+<h1 align="center">🌟 Basic C++ – Learn, Code & Grow 🌟</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw1eHRlMzdmY2x6YnRjeDV3bWxya3h6aHMzdTBlbnYwN2YyZTFvdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7NoNw4pMNTvgc/giphy.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" width="350" />
 </p>
 
 ---
 
-## 📘 About This Repository
+## 📘 About This Folder
 
-This repository contains all the **basic C++ programs** I practice daily while learning the language.
+This folder contains all the **beginner-friendly C++ concepts** including:  
+✔ Syntax basics  
+✔ Variables & Data types  
+✔ Loops & Conditions  
+✔ Functions  
+✔ Arrays  
+✔ Pointers  
+✔ OOP basics  
 
-It includes:
-- Beginner-friendly concepts  
-- Syntax practice  
-- Logic building  
-- Simple projects  
-- C++ core fundamentals  
-
-Perfect for students, beginners, and anyone learning C++ from scratch.
+Perfect for anyone starting their **C++ programming journey**!
 
 ---
 
-## 🚀 Topics Covered
+## 🚀 What You Will Learn
 
-### 🟦 **C++ Basics**
-- Input / Output  
-- Variables & Data Types  
+### 🔹 **1. C++ Fundamentals**
+- Input/Output  
+- Variables  
+- Data Types  
 - Operators  
-- Conditional Statements  
 
-### 🔁 **Loops**
-- For Loop  
-- While Loop  
-- Do-While Loop  
+### 🔹 **2. Control Flow**
+- If-Else  
+- Switch Case  
+- Loops (for, while, do-while)
 
-### ✨ **Functions**
-- User-defined functions  
-- Return values  
-- Parameter passing  
+### 🔹 **3. Functions**
+- Function declaration  
+- Pass by value/reference  
+- Scope  
 
-### 🔄 **Arrays & Strings**
-- 1D & 2D Arrays  
+### 🔹 **4. Arrays & Strings**
+- 1D Arrays  
+- Character Arrays  
 - String handling  
 
-### 🔷 **Important Concepts**
-- Pointers  
-- Structures  
-- Basic OOP  
+### 🔹 **5. Pointers**
+- Pointer basics  
+- Pointer arithmetic  
+- Pointer to array  
+
+### 🔹 **6. OOP Basics**
+- Classes & Objects  
+- Constructors  
+- Access Modifiers  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400"/>
 </p>
 
+---
 
+## 🗂️ Folder Structure  
+```
+Basic-cpp/
+│
+├── variables.cpp
+├── datatypes.cpp
+├── loops.cpp
+├── functions.cpp
+├── arrays.cpp
+├── pointers.cpp
+├── strings.cpp
+├── oops.cpp
+└── README.md
+```
+
+---
+
+## 🛠️ Tech Used
+
+<p align="center">
+  <img src="https://ski
