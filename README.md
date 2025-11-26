@@ -65,25 +65,6 @@ Perfect for anyone starting their **C++ programming journey**!
   <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width="400"/>
 </p>
 
----
-
-## 🗂️ Folder Structure  
-```
-Basic-cpp/
-│
-├── variables.cpp
-├── datatypes.cpp
-├── loops.cpp
-├── functions.cpp
-├── arrays.cpp
-├── pointers.cpp
-├── strings.cpp
-├── oops.cpp
-└── README.md
-```
-
----
-
 ## 🛠️ Tech Used
 
 <p align="center">
